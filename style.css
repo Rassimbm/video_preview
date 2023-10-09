@@ -59,13 +59,8 @@ body {
     margin-left: 20px;
 }
 
-.placeholder {
-    margin-bottom: 20px;
-    width: 100%;
-}
-
-.placeholder svg {
-    border-radius: 10px;
+.col-1 .birds-video {
+    height: 400px;
 }
 
 .row {
